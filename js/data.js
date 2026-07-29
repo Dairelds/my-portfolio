@@ -222,28 +222,6 @@ const portfolioProjects = [
     }
   },
   {
-    id: "undergrad-seminar-2025-v2",
-    category: "academic",
-    categoryLabel: "Academic",
-    title: "Undergraduate Seminar 2025 — Program Brochure (Variant 2)",
-    clientName: "Central Mindanao University",
-    year: "2025",
-    role: "Publication Designer",
-    shortDesc: "An alternative visual concept for the 2025 undergraduate research seminar, focusing on deep color contrasts and modern institutional branding.",
-    tags: ["Program Guide", "Academic", "Publication"],
-    thumbnail: "assets/05_Academic_and_PSABE_PPG/UNDERGRADUATE%20SEMINAR%202025%20BROCHURE%202/1.webp",
-    images: [
-      "assets/05_Academic_and_PSABE_PPG/UNDERGRADUATE%20SEMINAR%202025%20BROCHURE%202/1.webp",
-      "assets/05_Academic_and_PSABE_PPG/UNDERGRADUATE%20SEMINAR%202025%20BROCHURE%202/2.webp",
-      "assets/05_Academic_and_PSABE_PPG/UNDERGRADUATE%20SEMINAR%202025%20BROCHURE%202/3.webp"
-    ],
-    details: {
-      challenge: "Creating a distinct secondary design option that feels fresh while adhering to university visual standards.",
-      solution: "Employed a richer, dark-toned background with bright accent typography to make the schedule and speaker names pop.",
-      tools: ["Adobe InDesign", "Adobe Illustrator", "Photoshop"]
-    }
-  },
-  {
     id: "ddx-art-design",
     category: "academic",
     categoryLabel: "Academic",

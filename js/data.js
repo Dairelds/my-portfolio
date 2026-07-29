@@ -99,7 +99,7 @@ const portfolioProjects = [
       "assets/02_Event_Backdrops_and_Invitations/Joyce%20May%20Birthday/Joyce%20Mae%20Photoshoot/3.webp",
       "assets/02_Event_Backdrops_and_Invitations/Joyce%20May%20Birthday/Joyce%20Mae%20Photoshoot/4.webp",
       "assets/02_Event_Backdrops_and_Invitations/Joyce%20May%20Birthday/Joyce%20Mae%20Photoshoot/5.webp",
-      "assets/02_Event_Backdrops_and_Invitations/Joyce%20May%20Birthday/Joyce%20Mae%20Slideshow/1.webp",
+      "assets/02_Event_Backdrops_and_Invitations/Joyce%20May%20Birthday/Joyce%20Mae%20Slideshow/4.webp",
       "assets/02_Event_Backdrops_and_Invitations/Joyce%20May%20Birthday/Joyce%20Mae%20Slideshow/2.webp",
       "assets/02_Event_Backdrops_and_Invitations/Joyce%20May%20Birthday/Joyce%20Mae%20Slideshow/3.webp"
     ],

@@ -20,7 +20,7 @@ const portfolioProjects = [
     details: {
       challenge: "Capturing the joyful and energetic spirit of the youth thanksgiving gathering in a way that appeals to a younger digital audience.",
       solution: "Developed a bold, modern visual identity leveraging dynamic typography, high-contrast colors, and engaging photography layouts.",
-      tools: ["Adobe Photoshop", "Adobe Illustrator"]
+      tools: ["Canva", "Adobe Illustrator"]
     }
   },
   {
@@ -44,7 +44,7 @@ const portfolioProjects = [
     details: {
       challenge: "Designing a cohesive set of promotional materials that felt both spiritual and youthful for a multi-day conference.",
       solution: "Implemented an energetic, faith-driven design language across posters, presentation backgrounds, and social assets.",
-      tools: ["Adobe Photoshop", "Canva", "Lightroom"]
+      tools: ["Canva", "Lightroom"]
     }
   },
   {
@@ -74,7 +74,7 @@ const portfolioProjects = [
     details: {
       challenge: "Curating a lifetime of memories into a seamless, engaging visual narrative without overwhelming the audience.",
       solution: "Used elegant gold and royal blue motifs, smooth cross-fades, and carefully timed typography to create an emotional viewing experience.",
-      tools: ["DaVinci Resolve", "Photoshop"]
+      tools: ["DaVinci Resolve", "Canva"]
     }
   },
   {
@@ -106,7 +106,7 @@ const portfolioProjects = [
     details: {
       challenge: "Delivering a unified aesthetic across print posters, professional photography, and a cinematic event slideshow for a debut celebration.",
       solution: "Established a chic, feminine color palette with elegant floral artwork, soft portrait grading, and smooth slideshow transitions.",
-      tools: ["Adobe Lightroom", "Photoshop", "DaVinci Resolve", "Illustrator"]
+      tools: ["Adobe Lightroom", "Canva", "DaVinci Resolve", "Illustrator"]
     }
   },
   {
@@ -132,7 +132,7 @@ const portfolioProjects = [
     details: {
       challenge: "Creating a masculine, elegant invitation set with unique card inserts for gifts and seating.",
       solution: "Designed a dark-mode luxury theme using metallic accents and clean serif fonts for a premium feel.",
-      tools: ["Adobe Illustrator", "Photoshop"]
+      tools: ["Adobe Illustrator", "Canva"]
     }
   },
   {
@@ -176,7 +176,7 @@ const portfolioProjects = [
     details: {
       challenge: "Designing a trust-building corporate booklet that highlights scientific benefits without looking too clinical.",
       solution: "Balanced lifestyle photography with modern typography and clear data visualization elements.",
-      tools: ["Adobe InDesign", "Photoshop"]
+      tools: ["Adobe InDesign", "Canva"]
     }
   },
   {
@@ -244,7 +244,7 @@ const portfolioProjects = [
     details: {
       challenge: "Faithfully recreating the intricate floral linework and typography characteristic of the Art Nouveau period.",
       solution: "Utilized pen tool mastery in Illustrator for precise vector curves, matched with authentic vintage color palettes.",
-      tools: ["Adobe Illustrator", "Procreate", "Photoshop"]
+      tools: ["Adobe Illustrator", "Procreate", "Canva"]
     }
   }
 ];
@@ -328,9 +328,9 @@ const servicePackages = [
     icon: "⛪",
     title: "Church & Ministry Brand Suite",
     subtitle: "Complete Media Identity for Churches",
-    description: "Empower your ministry with cohesive visual assets—from sermon series key art to large-format stage backdrops (Canva & Photoshop) and motion countdowns.",
+    description: "Empower your ministry with cohesive visual assets—from sermon series key art to large-format stage backdrops (Canva) and motion countdowns.",
     deliverables: [
-      "Stage Backdrops & Venue Signage (Canva & Photoshop)",
+      "Stage Backdrops & Venue Signage (Canva)",
       "Sermon Series Key Art & Social Pubmats",
       "Event Motion Graphics & Intro Countdown Reels",
       "Ministry Certificates & Program Booklets"

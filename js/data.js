@@ -11,11 +11,11 @@ const portfolioProjects = [
     role: "Visual Designer & Media Specialist",
     shortDesc: "An inspiring backdrop and print design suite created for the 14th Anniversary Church Thanksgiving Celebration.",
     tags: ["Stage Backdrop", "Thanksgiving", "Church Branding", "Print Design"],
-    thumbnail: "assets/01_Church_and_Ministry/Thanksgiving/5.png",
+    thumbnail: "assets/01_Church_and_Ministry/Thanksgiving/5.webp",
     images: [
-      "assets/01_Church_and_Ministry/Thanksgiving/5.png",
-      "assets/01_Church_and_Ministry/Thanksgiving/6.png",
-      "assets/01_Church_and_Ministry/Thanksgiving/7.png"
+      "assets/01_Church_and_Ministry/Thanksgiving/5.webp",
+      "assets/01_Church_and_Ministry/Thanksgiving/6.webp",
+      "assets/01_Church_and_Ministry/Thanksgiving/7.webp"
     ],
     details: {
       challenge: "Capturing the joyful and energetic spirit of the youth thanksgiving gathering in a way that appeals to a younger digital audience.",
@@ -33,13 +33,13 @@ const portfolioProjects = [
     role: "Brand & Media Creator",
     shortDesc: "Vibrant and empowering conference key art and media branding crafted for the Youth Fellowship 2026 event.",
     tags: ["Conference Branding", "Key Art", "Youth Ministry"],
-    thumbnail: "assets/01_Church_and_Ministry/YOUTH%20FELLOWSHIP%202026/1.png",
+    thumbnail: "assets/01_Church_and_Ministry/YOUTH%20FELLOWSHIP%202026/1.webp",
     images: [
-      "assets/01_Church_and_Ministry/YOUTH%20FELLOWSHIP%202026/1.png",
-      "assets/01_Church_and_Ministry/YOUTH%20FELLOWSHIP%202026/2.png",
-      "assets/01_Church_and_Ministry/YOUTH%20FELLOWSHIP%202026/3.png",
-      "assets/01_Church_and_Ministry/YOUTH%20FELLOWSHIP%202026/10.png",
-      "assets/01_Church_and_Ministry/YOUTH%20FELLOWSHIP%202026/11.png"
+      "assets/01_Church_and_Ministry/YOUTH%20FELLOWSHIP%202026/1.webp",
+      "assets/01_Church_and_Ministry/YOUTH%20FELLOWSHIP%202026/2.webp",
+      "assets/01_Church_and_Ministry/YOUTH%20FELLOWSHIP%202026/3.webp",
+      "assets/01_Church_and_Ministry/YOUTH%20FELLOWSHIP%202026/10.webp",
+      "assets/01_Church_and_Ministry/YOUTH%20FELLOWSHIP%202026/11.webp"
     ],
     details: {
       challenge: "Designing a cohesive set of promotional materials that felt both spiritual and youthful for a multi-day conference.",
@@ -57,19 +57,19 @@ const portfolioProjects = [
     role: "Graphic Designer & Video Editor",
     shortDesc: "A regal and heartfelt tribute slideshow design crafted to honor the pastoral legacy for a 60th milestone birthday celebration.",
     tags: ["Slideshow Design", "Birthday Tribute", "Video Editing"],
-    thumbnail: "assets/01_Church_and_Ministry/PastorLeo%20Slideshow/1.png",
+    thumbnail: "assets/01_Church_and_Ministry/PastorLeo%20Slideshow/1.webp",
     images: [
-      "assets/01_Church_and_Ministry/PastorLeo%20Slideshow/1.png",
-      "assets/01_Church_and_Ministry/PastorLeo%20Slideshow/2.png",
-      "assets/01_Church_and_Ministry/PastorLeo%20Slideshow/3.png",
-      "assets/01_Church_and_Ministry/PastorLeo%20Slideshow/4.png",
-      "assets/01_Church_and_Ministry/PastorLeo%20Slideshow/5.png",
-      "assets/01_Church_and_Ministry/PastorLeo%20Slideshow/6.png",
-      "assets/01_Church_and_Ministry/PastorLeo%20Slideshow/7.png",
-      "assets/01_Church_and_Ministry/PastorLeo%20Slideshow/8.png",
-      "assets/01_Church_and_Ministry/PastorLeo%20Slideshow/9.png",
-      "assets/01_Church_and_Ministry/PastorLeo%20Slideshow/10.png",
-      "assets/01_Church_and_Ministry/PastorLeo%20Slideshow/11.png"
+      "assets/01_Church_and_Ministry/PastorLeo%20Slideshow/1.webp",
+      "assets/01_Church_and_Ministry/PastorLeo%20Slideshow/2.webp",
+      "assets/01_Church_and_Ministry/PastorLeo%20Slideshow/3.webp",
+      "assets/01_Church_and_Ministry/PastorLeo%20Slideshow/4.webp",
+      "assets/01_Church_and_Ministry/PastorLeo%20Slideshow/5.webp",
+      "assets/01_Church_and_Ministry/PastorLeo%20Slideshow/6.webp",
+      "assets/01_Church_and_Ministry/PastorLeo%20Slideshow/7.webp",
+      "assets/01_Church_and_Ministry/PastorLeo%20Slideshow/8.webp",
+      "assets/01_Church_and_Ministry/PastorLeo%20Slideshow/9.webp",
+      "assets/01_Church_and_Ministry/PastorLeo%20Slideshow/10.webp",
+      "assets/01_Church_and_Ministry/PastorLeo%20Slideshow/11.webp"
     ],
     details: {
       challenge: "Curating a lifetime of memories into a seamless, engaging visual narrative without overwhelming the audience.",
@@ -87,21 +87,21 @@ const portfolioProjects = [
     role: "Event Graphic Designer & Photographer",
     shortDesc: "A complete debutante package encompassing poster designs, a pre-debut photoshoot, and a cinematic event slideshow.",
     tags: ["Debut", "Event Design", "Photography", "Slideshow"],
-    thumbnail: "assets/02_Event_Backdrops_and_Invitations/Joyce%20May%20Birthday/Joyce%20Mae%20Slideshow/Thumbnail.png",
+    thumbnail: "assets/02_Event_Backdrops_and_Invitations/Joyce%20May%20Birthday/Joyce%20Mae%20Slideshow/Thumbnail.webp",
     images: [
-      "assets/02_Event_Backdrops_and_Invitations/Joyce%20May%20Birthday/JOYCE%20MAY%20@%20EIGHTEEN%20Poster/1.png",
-      "assets/02_Event_Backdrops_and_Invitations/Joyce%20May%20Birthday/JOYCE%20MAY%20@%20EIGHTEEN%20Poster/2.png",
-      "assets/02_Event_Backdrops_and_Invitations/Joyce%20May%20Birthday/JOYCE%20MAY%20@%20EIGHTEEN%20Poster/3.png",
-      "assets/02_Event_Backdrops_and_Invitations/Joyce%20May%20Birthday/JOYCE%20MAY%20@%20EIGHTEEN%20Poster/4.png",
-      "assets/02_Event_Backdrops_and_Invitations/Joyce%20May%20Birthday/JOYCE%20MAY%20@%20EIGHTEEN%20Poster/5.png",
-      "assets/02_Event_Backdrops_and_Invitations/Joyce%20May%20Birthday/Joyce%20Mae%20Photoshoot/1.png",
-      "assets/02_Event_Backdrops_and_Invitations/Joyce%20May%20Birthday/Joyce%20Mae%20Photoshoot/2.png",
-      "assets/02_Event_Backdrops_and_Invitations/Joyce%20May%20Birthday/Joyce%20Mae%20Photoshoot/3.png",
-      "assets/02_Event_Backdrops_and_Invitations/Joyce%20May%20Birthday/Joyce%20Mae%20Photoshoot/4.png",
-      "assets/02_Event_Backdrops_and_Invitations/Joyce%20May%20Birthday/Joyce%20Mae%20Photoshoot/5.png",
-      "assets/02_Event_Backdrops_and_Invitations/Joyce%20May%20Birthday/Joyce%20Mae%20Slideshow/1.png",
-      "assets/02_Event_Backdrops_and_Invitations/Joyce%20May%20Birthday/Joyce%20Mae%20Slideshow/2.png",
-      "assets/02_Event_Backdrops_and_Invitations/Joyce%20May%20Birthday/Joyce%20Mae%20Slideshow/3.png"
+      "assets/02_Event_Backdrops_and_Invitations/Joyce%20May%20Birthday/JOYCE%20MAY%20@%20EIGHTEEN%20Poster/1.webp",
+      "assets/02_Event_Backdrops_and_Invitations/Joyce%20May%20Birthday/JOYCE%20MAY%20@%20EIGHTEEN%20Poster/2.webp",
+      "assets/02_Event_Backdrops_and_Invitations/Joyce%20May%20Birthday/JOYCE%20MAY%20@%20EIGHTEEN%20Poster/3.webp",
+      "assets/02_Event_Backdrops_and_Invitations/Joyce%20May%20Birthday/JOYCE%20MAY%20@%20EIGHTEEN%20Poster/4.webp",
+      "assets/02_Event_Backdrops_and_Invitations/Joyce%20May%20Birthday/JOYCE%20MAY%20@%20EIGHTEEN%20Poster/5.webp",
+      "assets/02_Event_Backdrops_and_Invitations/Joyce%20May%20Birthday/Joyce%20Mae%20Photoshoot/1.webp",
+      "assets/02_Event_Backdrops_and_Invitations/Joyce%20May%20Birthday/Joyce%20Mae%20Photoshoot/2.webp",
+      "assets/02_Event_Backdrops_and_Invitations/Joyce%20May%20Birthday/Joyce%20Mae%20Photoshoot/3.webp",
+      "assets/02_Event_Backdrops_and_Invitations/Joyce%20May%20Birthday/Joyce%20Mae%20Photoshoot/4.webp",
+      "assets/02_Event_Backdrops_and_Invitations/Joyce%20May%20Birthday/Joyce%20Mae%20Photoshoot/5.webp",
+      "assets/02_Event_Backdrops_and_Invitations/Joyce%20May%20Birthday/Joyce%20Mae%20Slideshow/1.webp",
+      "assets/02_Event_Backdrops_and_Invitations/Joyce%20May%20Birthday/Joyce%20Mae%20Slideshow/2.webp",
+      "assets/02_Event_Backdrops_and_Invitations/Joyce%20May%20Birthday/Joyce%20Mae%20Slideshow/3.webp"
     ],
     details: {
       challenge: "Delivering a unified aesthetic across print posters, professional photography, and a cinematic event slideshow for a debut celebration.",
@@ -119,15 +119,15 @@ const portfolioProjects = [
     role: "Graphic Designer",
     shortDesc: "A sleek and sophisticated milestone birthday design package, featuring invitations and backdrop art.",
     tags: ["21st Birthday", "Invitation Design", "Backdrop Art"],
-    thumbnail: "assets/02_Event_Backdrops_and_Invitations/Emmanuel%2021st%20Birthday/Emmanuel%2021st%20BDAY.png",
+    thumbnail: "assets/02_Event_Backdrops_and_Invitations/Emmanuel%2021st%20Birthday/Emmanuel%2021st%20BDAY.webp",
     images: [
-      "assets/02_Event_Backdrops_and_Invitations/Emmanuel%2021st%20Birthday/Emmanuel%2021st%20BDAY.png",
-      "assets/02_Event_Backdrops_and_Invitations/Emmanuel%2021st%20Birthday/Invitation/1%20seat.png",
-      "assets/02_Event_Backdrops_and_Invitations/Emmanuel%2021st%20Birthday/Invitation/3.png",
-      "assets/02_Event_Backdrops_and_Invitations/Emmanuel%2021st%20Birthday/Invitation/Chocolates.png",
-      "assets/02_Event_Backdrops_and_Invitations/Emmanuel%2021st%20Birthday/Invitation/NOEL.png",
-      "assets/02_Event_Backdrops_and_Invitations/Emmanuel%2021st%20Birthday/Invitation/bills.png",
-      "assets/02_Event_Backdrops_and_Invitations/Emmanuel%2021st%20Birthday/Invitation/treasures.png"
+      "assets/02_Event_Backdrops_and_Invitations/Emmanuel%2021st%20Birthday/Emmanuel%2021st%20BDAY.webp",
+      "assets/02_Event_Backdrops_and_Invitations/Emmanuel%2021st%20Birthday/Invitation/1%20seat.webp",
+      "assets/02_Event_Backdrops_and_Invitations/Emmanuel%2021st%20Birthday/Invitation/3.webp",
+      "assets/02_Event_Backdrops_and_Invitations/Emmanuel%2021st%20Birthday/Invitation/Chocolates.webp",
+      "assets/02_Event_Backdrops_and_Invitations/Emmanuel%2021st%20Birthday/Invitation/NOEL.webp",
+      "assets/02_Event_Backdrops_and_Invitations/Emmanuel%2021st%20Birthday/Invitation/bills.webp",
+      "assets/02_Event_Backdrops_and_Invitations/Emmanuel%2021st%20Birthday/Invitation/treasures.webp"
     ],
     details: {
       challenge: "Creating a masculine, elegant invitation set with unique card inserts for gifts and seating.",
@@ -145,11 +145,11 @@ const portfolioProjects = [
     role: "Print Layout Designer",
     shortDesc: "A fresh and organic tri-fold brochure layout highlighting the nutritional benefits of microgreens.",
     tags: ["Tri-Fold", "Brochure", "Print Design", "Agriculture"],
-    thumbnail: "assets/03_Brochures_and_Corporate_Print/ELGREENSYDE%20MICROGREEN%20BROCHURE/1.png",
+    thumbnail: "assets/03_Brochures_and_Corporate_Print/ELGREENSYDE%20MICROGREEN%20BROCHURE/1.webp",
     images: [
-      "assets/03_Brochures_and_Corporate_Print/ELGREENSYDE%20MICROGREEN%20BROCHURE/1.png",
-      "assets/03_Brochures_and_Corporate_Print/ELGREENSYDE%20MICROGREEN%20BROCHURE/2.png",
-      "assets/03_Brochures_and_Corporate_Print/ELGREENSYDE%20MICROGREEN%20BROCHURE/3.png"
+      "assets/03_Brochures_and_Corporate_Print/ELGREENSYDE%20MICROGREEN%20BROCHURE/1.webp",
+      "assets/03_Brochures_and_Corporate_Print/ELGREENSYDE%20MICROGREEN%20BROCHURE/2.webp",
+      "assets/03_Brochures_and_Corporate_Print/ELGREENSYDE%20MICROGREEN%20BROCHURE/3.webp"
     ],
     details: {
       challenge: "Organizing dense nutritional information and pricing into an easily readable, pocket-sized format.",
@@ -167,11 +167,11 @@ const portfolioProjects = [
     role: "Editorial Designer",
     shortDesc: "A professional and clean corporate product booklet tailored for the health and wellness sector.",
     tags: ["Booklet", "Editorial Layout", "Corporate Branding"],
-    thumbnail: "assets/03_Brochures_and_Corporate_Print/Nutriform%20X%20Brochure/1.png",
+    thumbnail: "assets/03_Brochures_and_Corporate_Print/Nutriform%20X%20Brochure/1.webp",
     images: [
-      "assets/03_Brochures_and_Corporate_Print/Nutriform%20X%20Brochure/1.png",
-      "assets/03_Brochures_and_Corporate_Print/Nutriform%20X%20Brochure/2.png",
-      "assets/03_Brochures_and_Corporate_Print/Nutriform%20X%20Brochure/3.png"
+      "assets/03_Brochures_and_Corporate_Print/Nutriform%20X%20Brochure/1.webp",
+      "assets/03_Brochures_and_Corporate_Print/Nutriform%20X%20Brochure/2.webp",
+      "assets/03_Brochures_and_Corporate_Print/Nutriform%20X%20Brochure/3.webp"
     ],
     details: {
       challenge: "Designing a trust-building corporate booklet that highlights scientific benefits without looking too clinical.",
@@ -189,10 +189,10 @@ const portfolioProjects = [
     role: "Print Layout Specialist",
     shortDesc: "An authoritative and well-structured official brochure guiding students through the OJT program requirements.",
     tags: ["University", "Brochure", "Guidelines", "Print Layout"],
-    thumbnail: "assets/03_Brochures_and_Corporate_Print/On%20The%20Job%20Training%20-%20Central%20Mindanao%20University%20-%20BROCHURE/1.png",
+    thumbnail: "assets/03_Brochures_and_Corporate_Print/On%20The%20Job%20Training%20-%20Central%20Mindanao%20University%20-%20BROCHURE/1.webp",
     images: [
-      "assets/03_Brochures_and_Corporate_Print/On%20The%20Job%20Training%20-%20Central%20Mindanao%20University%20-%20BROCHURE/1.png",
-      "assets/03_Brochures_and_Corporate_Print/On%20The%20Job%20Training%20-%20Central%20Mindanao%20University%20-%20BROCHURE/2.png"
+      "assets/03_Brochures_and_Corporate_Print/On%20The%20Job%20Training%20-%20Central%20Mindanao%20University%20-%20BROCHURE/1.webp",
+      "assets/03_Brochures_and_Corporate_Print/On%20The%20Job%20Training%20-%20Central%20Mindanao%20University%20-%20BROCHURE/2.webp"
     ],
     details: {
       challenge: "Transforming a text-heavy institutional handbook into an engaging, skimmable brochure format.",
@@ -210,10 +210,10 @@ const portfolioProjects = [
     role: "Publication Designer",
     shortDesc: "A meticulously crafted program guide serving as the official companion for the 2025 undergraduate research seminar.",
     tags: ["Program Guide", "Academic", "Publication"],
-    thumbnail: "assets/05_Academic_and_PSABE_PPG/UNDERGRADUATE%20SEMINAR%202025%20BROCHURE/1.png",
+    thumbnail: "assets/05_Academic_and_PSABE_PPG/UNDERGRADUATE%20SEMINAR%202025%20BROCHURE/1.webp",
     images: [
-      "assets/05_Academic_and_PSABE_PPG/UNDERGRADUATE%20SEMINAR%202025%20BROCHURE/1.png",
-      "assets/05_Academic_and_PSABE_PPG/UNDERGRADUATE%20SEMINAR%202025%20BROCHURE/2.png"
+      "assets/05_Academic_and_PSABE_PPG/UNDERGRADUATE%20SEMINAR%202025%20BROCHURE/1.webp",
+      "assets/05_Academic_and_PSABE_PPG/UNDERGRADUATE%20SEMINAR%202025%20BROCHURE/2.webp"
     ],
     details: {
       challenge: "Ensuring all research titles and student names were clearly legible while maintaining an elegant cover aesthetic.",
@@ -231,11 +231,11 @@ const portfolioProjects = [
     role: "Publication Designer",
     shortDesc: "An alternative visual concept for the 2025 undergraduate research seminar, focusing on deep color contrasts and modern institutional branding.",
     tags: ["Program Guide", "Academic", "Publication"],
-    thumbnail: "assets/05_Academic_and_PSABE_PPG/UNDERGRADUATE%20SEMINAR%202025%20BROCHURE%202/1.png",
+    thumbnail: "assets/05_Academic_and_PSABE_PPG/UNDERGRADUATE%20SEMINAR%202025%20BROCHURE%202/1.webp",
     images: [
-      "assets/05_Academic_and_PSABE_PPG/UNDERGRADUATE%20SEMINAR%202025%20BROCHURE%202/1.png",
-      "assets/05_Academic_and_PSABE_PPG/UNDERGRADUATE%20SEMINAR%202025%20BROCHURE%202/2.png",
-      "assets/05_Academic_and_PSABE_PPG/UNDERGRADUATE%20SEMINAR%202025%20BROCHURE%202/3.png"
+      "assets/05_Academic_and_PSABE_PPG/UNDERGRADUATE%20SEMINAR%202025%20BROCHURE%202/1.webp",
+      "assets/05_Academic_and_PSABE_PPG/UNDERGRADUATE%20SEMINAR%202025%20BROCHURE%202/2.webp",
+      "assets/05_Academic_and_PSABE_PPG/UNDERGRADUATE%20SEMINAR%202025%20BROCHURE%202/3.webp"
     ],
     details: {
       challenge: "Creating a distinct secondary design option that feels fresh while adhering to university visual standards.",
@@ -253,15 +253,15 @@ const portfolioProjects = [
     role: "Illustrator & Multimedia Artist",
     shortDesc: "A dynamic exploration of historical art movements translated into modern digital vectors and mixed media posters.",
     tags: ["Art Nouveau", "Vector Art", "School Project"],
-    thumbnail: "assets/05_Academic_and_PSABE_PPG/Ddx%20Project/Art%20Nouveau%20-%20School%20Project.png",
+    thumbnail: "assets/05_Academic_and_PSABE_PPG/Ddx%20Project/Art%20Nouveau%20-%20School%20Project.webp",
     images: [
-      "assets/05_Academic_and_PSABE_PPG/Ddx%20Project/Art%20Nouveau%20-%20School%20Project.png",
-      "assets/05_Academic_and_PSABE_PPG/Ddx%20Project/ALVIN.png",
-      "assets/05_Academic_and_PSABE_PPG/Ddx%20Project/1.png",
-      "assets/05_Academic_and_PSABE_PPG/Ddx%20Project/2.png",
-      "assets/05_Academic_and_PSABE_PPG/Ddx%20Project/3.png",
-      "assets/05_Academic_and_PSABE_PPG/Ddx%20Project/4.png",
-      "assets/05_Academic_and_PSABE_PPG/Ddx%20Project/5.png"
+      "assets/05_Academic_and_PSABE_PPG/Ddx%20Project/Art%20Nouveau%20-%20School%20Project.webp",
+      "assets/05_Academic_and_PSABE_PPG/Ddx%20Project/ALVIN.webp",
+      "assets/05_Academic_and_PSABE_PPG/Ddx%20Project/1.webp",
+      "assets/05_Academic_and_PSABE_PPG/Ddx%20Project/2.webp",
+      "assets/05_Academic_and_PSABE_PPG/Ddx%20Project/3.webp",
+      "assets/05_Academic_and_PSABE_PPG/Ddx%20Project/4.webp",
+      "assets/05_Academic_and_PSABE_PPG/Ddx%20Project/5.webp"
     ],
     details: {
       challenge: "Faithfully recreating the intricate floral linework and typography characteristic of the Art Nouveau period.",
@@ -274,61 +274,61 @@ const portfolioProjects = [
 const commissionWorks = [
   {
     title: "DVBS 2024 Pubmat",
-    image: "assets/01_Church_and_Ministry/DVBS2024.png",
+    image: "assets/01_Church_and_Ministry/DVBS2024.webp",
     category: "church",
     type: "Commission"
   },
   {
     title: "Pastor Leo 60th Birthday Pubmat",
-    image: "assets/01_Church_and_Ministry/Pastor%20Leo%2060th%20PUBMAT.png",
+    image: "assets/01_Church_and_Ministry/Pastor%20Leo%2060th%20PUBMAT.webp",
     category: "church",
     type: "Commission"
   },
   {
     title: "Carmilla Ava Backdrop Art 1",
-    image: "assets/02_Event_Backdrops_and_Invitations/CArmilla%20Ava%203.png",
+    image: "assets/02_Event_Backdrops_and_Invitations/CArmilla%20Ava%203.webp",
     category: "events",
     type: "Commission"
   },
   {
     title: "Carmilla Ava Backdrop Art 2",
-    image: "assets/02_Event_Backdrops_and_Invitations/Carmilla%20AVA%204.png",
+    image: "assets/02_Event_Backdrops_and_Invitations/Carmilla%20AVA%204.webp",
     category: "events",
     type: "Commission"
   },
   {
     title: "Zairah Ysabelle 1st Birthday Banner",
-    image: "assets/02_Event_Backdrops_and_Invitations/Zairah%20Ysabelle%201st%20Bday.png",
+    image: "assets/02_Event_Backdrops_and_Invitations/Zairah%20Ysabelle%201st%20Bday.webp",
     category: "events",
     type: "Commission"
   },
   {
     title: "Home Sweet Home Poster",
-    image: "assets/02_Event_Backdrops_and_Invitations/HomeSweetHomeDADA.png",
+    image: "assets/02_Event_Backdrops_and_Invitations/HomeSweetHomeDADA.webp",
     category: "events",
     type: "Commission"
   },
   {
     title: "PSABE-PPG CMU Chapter Elections 2026",
-    image: "assets/05_Academic_and_PSABE_PPG/PSABE-PPG%20CMU%20CHAPTER%20OFFICIAL%20BANNER.png",
+    image: "assets/05_Academic_and_PSABE_PPG/PSABE-PPG%20CMU%20CHAPTER%20OFFICIAL%20BANNER.webp",
     category: "academic",
     type: "Commission"
   },
   {
     title: "PSABE Congratulations Pubmat",
-    image: "assets/05_Academic_and_PSABE_PPG/PSABE%20CONGRATULATIONS.png",
+    image: "assets/05_Academic_and_PSABE_PPG/PSABE%20CONGRATULATIONS.webp",
     category: "academic",
     type: "Freebie"
   },
   {
     title: "PAESTIGAY Event Pubmat",
-    image: "assets/05_Academic_and_PSABE_PPG/PAESTIGAY.png",
+    image: "assets/05_Academic_and_PSABE_PPG/PAESTIGAY.webp",
     category: "academic",
     type: "Commission"
   },
   {
     title: "Gomble Character Stickers",
-    image: "assets/06_Personal_and_Misc/Gomble%20Stickers.png",
+    image: "assets/06_Personal_and_Misc/Gomble%20Stickers.webp",
     category: "personal",
     type: "Freebie"
   }

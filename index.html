@@ -233,20 +233,22 @@
           </div>
         </div>
 
-        <form id="booking-form">
+        <form id="booking-form" action="https://formsubmit.co/eds04025@gmail.com" method="POST">
+          <input type="hidden" name="_subject" value="New Portfolio Inquiry!">
+          
           <div class="form-group">
             <label for="name">Your Name / Organization</label>
-            <input type="text" id="name" required placeholder="e.g. Pastor Mark / Grace Fellowship">
+            <input type="text" id="name" name="name" required placeholder="e.g. Pastor Mark / Grace Fellowship">
           </div>
 
           <div class="form-group">
             <label for="email">Email Address</label>
-            <input type="email" id="email" required placeholder="name@example.com">
+            <input type="email" id="email" name="email" required placeholder="name@example.com">
           </div>
 
           <div class="form-group">
             <label for="service">Select Capability</label>
-            <select id="service" required>
+            <select id="service" name="service" required>
               <option value="">Select Service...</option>
               <option value="church">Church & Ministry Media Suite</option>
               <option value="events">Event Backdrop & Invitations Suite</option>
@@ -257,7 +259,7 @@
 
           <div class="form-group">
             <label for="message">Project Scope & Target Date</label>
-            <textarea id="message" rows="4" required placeholder="Describe your project goals, dimensions, or deliverables..."></textarea>
+            <textarea id="message" name="message" rows="4" required placeholder="Describe your project goals, dimensions, or deliverables..."></textarea>
           </div>
 
           <button type="submit" class="btn-pill" style="width: 100%; justify-content: center; background: var(--accent-primary); color: #FFFFFF;">

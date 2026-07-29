@@ -204,11 +204,8 @@ function setupForm() {
   const form = document.getElementById('booking-form');
   if (!form) return;
 
-  form.addEventListener('submit', (e) => {
-    e.preventDefault();
-    alert('Thank you! Your project brief has been submitted. We will be in touch within 24 hours.');
-    form.reset();
-  });
+  // Form handled by formsubmit.co directly in HTML
+  // No JS intercept needed
 }
 
 function setupHamburger() {

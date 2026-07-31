@@ -149,7 +149,7 @@ function openCommissionLightbox(image, title) {
   document.getElementById('modal-tools').textContent = 'Various';
 
   const gallery = document.getElementById('modal-gallery');
-  gallery.innerHTML = \`<img src="\${image}" alt="\${title}" style="grid-column: 1 / -1; width: 100%; border: 1px solid var(--color-rule);" />\`;
+  gallery.innerHTML = `<img src="${image}" alt="${title}" style="grid-column: 1 / -1; width: 100%; border: 1px solid var(--color-rule);" />`;
   
   modal.classList.add('active');
   document.body.style.overflow = 'hidden';

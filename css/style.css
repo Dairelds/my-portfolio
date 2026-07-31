@@ -420,18 +420,23 @@ p {
 }
 
 .modal-close-specimen {
-  position: absolute;
+  position: fixed;
   top: var(--space-xl);
   right: var(--space-xl);
+  z-index: 10;
+  background-color: var(--color-paper);
+  padding: var(--space-xs) var(--space-sm);
+  border: 1px solid var(--color-ink);
   font-family: var(--font-outlier);
   font-size: var(--text-xs);
   text-transform: uppercase;
   letter-spacing: 0.1em;
-  color: var(--color-neutral);
-  transition: color var(--dur-short) var(--ease-out);
+  color: var(--color-ink);
+  transition: background-color var(--dur-short) var(--ease-out), color var(--dur-short) var(--ease-out);
 }
 .modal-close-specimen:hover {
-  color: var(--color-ink);
+  background-color: var(--color-ink);
+  color: var(--color-paper);
 }
 
 .modal-header-specimen {

@@ -4,6 +4,8 @@
 
 document.addEventListener('DOMContentLoaded', () => {
   renderWorks('all');
+  renderServices();
+  renderCommissions();
   setupFilterTabs();
   setupModal();
 });
@@ -104,3 +106,52 @@ function closeModal() {
     document.body.style.overflow = 'auto'; 
   }
 }
+
+function renderServices() {
+  const container = document.getElementById('services-list');
+  if (!container || typeof servicePackages === 'undefined') return;
+
+  container.innerHTML = servicePackages.map(s => `
+    <div style="border-top: 1px solid var(--color-rule); padding-top: var(--space-md);">
+      <h3 style="font-family: var(--font-display); font-size: var(--text-lg); margin-bottom: var(--space-xs);">${s.icon} ${s.title}</h3>
+      <p style="font-size: var(--text-sm); margin-bottom: var(--space-sm); color: var(--color-ink);">${s.description}</p>
+      <ul style="list-style: none; padding: 0;">
+        ${s.deliverables.map(d => `<li style="font-family: var(--font-outlier); font-size: var(--text-xs); text-transform: uppercase; margin-bottom: 4px; color: var(--color-neutral);">&mdash; ${d}</li>`).join('')}
+      </ul>
+    </div>
+  `).join('');
+}
+
+function renderCommissions() {
+  const container = document.getElementById('commissions-list');
+  if (!container || typeof commissionWorks === 'undefined') return;
+
+  container.innerHTML = commissionWorks.map(item => `
+    <div style="cursor: pointer; transition: opacity var(--dur-short); border: 1px solid var(--color-rule);" onmouseover="this.style.opacity=0.8" onmouseout="this.style.opacity=1" onclick="openCommissionLightbox('${item.image}', '${item.title.replace(/'/g, "\\'")}')">
+      <img src="${item.image}" alt="${item.title}" loading="lazy" style="width: 100%; height: 200px; object-fit: cover;" onerror="this.style.display='none'" />
+      <div style="padding: var(--space-xs); font-family: var(--font-outlier); font-size: var(--text-xs); text-transform: uppercase; display: flex; justify-content: space-between;">
+        <span style="color: var(--color-ink); overflow: hidden; text-overflow: ellipsis; white-space: nowrap; margin-right: var(--space-xs);">${item.title}</span>
+        <span style="color: var(--color-neutral);">${item.type}</span>
+      </div>
+    </div>
+  `).join('');
+}
+
+function openCommissionLightbox(image, title) {
+  const modal = document.getElementById('project-modal');
+  if (!modal) return;
+  
+  document.getElementById('modal-title').textContent = title;
+  document.getElementById('modal-desc').textContent = 'Commission / Freebie Design';
+  document.getElementById('modal-client').textContent = 'Various Clients';
+  document.getElementById('modal-role').textContent = 'Designer';
+  document.getElementById('modal-year').textContent = '2024–2026';
+  document.getElementById('modal-tools').textContent = 'Various';
+
+  const gallery = document.getElementById('modal-gallery');
+  gallery.innerHTML = \`<img src="\${image}" alt="\${title}" style="grid-column: 1 / -1; width: 100%; border: 1px solid var(--color-rule);" />\`;
+  
+  modal.classList.add('active');
+  document.body.style.overflow = 'hidden';
+}
+

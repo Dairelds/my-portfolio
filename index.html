@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Emmanuel | Specimen</title>
+  <title>Emmanuel Delos Santos</title>
   <meta name="description" content="Portfolio of Emmanuel Delos Santos. Visual Designer.">
   <link rel="stylesheet" href="css/style.css">
 </head>
@@ -28,6 +28,7 @@
       <header class="specimen-hero specimen-grid">
         <p class="num-label">01 &mdash; INTRODUCTION.</p>
         <div>
+          <img src="profile_clean.png" alt="Emmanuel Delos Santos" style="width: 120px; height: 120px; border-radius: 50%; object-fit: cover; margin-bottom: var(--space-lg); border: 1px solid var(--color-rule);" />
           <h1 class="serif-xxl">Design, set with <em>care.</em></h1>
           <p class="lede">We compose the page with restraint. True structural clarity is found not in decoration, but in typography, grid precision, and empty space.</p>
           <a href="#work" class="link-cta">View the Archive &rarr;</a>
@@ -74,16 +75,36 @@
         </div>
       </section>
 
+      <!-- Services Section -->
+      <section id="services" style="margin-bottom: var(--space-4xl);">
+        <div class="specimen-grid">
+          <p class="num-label">04 &mdash; SERVICES.</p>
+          <div id="services-list" style="display: grid; grid-template-columns: 1fr 1fr; gap: var(--space-2xl);">
+            <!-- Injected via app.js -->
+          </div>
+        </div>
+      </section>
+
+      <!-- Commissions Section -->
+      <section id="commissions" style="margin-bottom: var(--space-4xl);">
+        <div class="specimen-grid">
+          <p class="num-label">05 &mdash; COMMISSIONS.</p>
+          <div id="commissions-list" style="display: grid; grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); gap: var(--space-md);">
+            <!-- Injected via app.js -->
+          </div>
+        </div>
+      </section>
+
       <!-- Contact Section -->
       <section id="contact" class="contact-section">
         <div class="specimen-grid">
-          <p class="num-label">04 &mdash; INQUIRE.</p>
+          <p class="num-label">06 &mdash; INQUIRE.</p>
           
           <div>
             <p class="lede" style="margin-bottom: var(--space-xl);">Available for selected commissions and studio engagements.</p>
             
             <form id="booking-form" action="https://formsubmit.co/eds04025@gmail.com" method="POST">
-              <input type="hidden" name="_subject" value="New Specimen Inquiry!">
+              <input type="hidden" name="_subject" value="New Portfolio Inquiry!">
               
               <div class="form-group">
                 <label for="name">Name / Organization</label>
